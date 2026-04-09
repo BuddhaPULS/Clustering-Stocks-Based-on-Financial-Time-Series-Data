@@ -93,17 +93,7 @@ Applied on the MDS-embedded coordinates. Optimal cluster count *k* is selected b
 ## 🗂️ Project Structure
 
 ```
-├── data/               # Raw and processed financial data
 ├── notebooks/          # Exploratory analysis and modelling notebooks
-├── figures/            # Output plots (distributions, correlations, cluster results)
-│   ├── ratios_distribution.png
-│   ├── NDN_distribution.png
-│   ├── corr.png
-│   ├── DTW_metrics.png
-│   ├── equal_weigh_dtw_result.png
-│   ├── eros_metrics.png
-│   └── eros_result.png
-├── main.tex            # Full project report (LaTeX)
 └── README.md
 ```
 
